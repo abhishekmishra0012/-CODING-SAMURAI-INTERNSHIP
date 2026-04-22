@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Double Beef Burger",
+        "price":"$9.67",
+        "image": "images/burger.jpg"
+    },
+    {
+        "id":2,
+        "name":"veggie pizza",
+        "price":"$10.99",
+        "image":"images/pizza.jpg"
+    },
+    {
+        "id":3,
+        "name":"friend momo",
+        "price":"$13.45",
+        "image":"images/friend momo.jpg"
+    },
+    {
+        "id":4,
+        "name":"veg Roll",
+        "price":"$7.50",
+        "image":"images/veg Roll.jpg"
+    },
+    {
+        "id":5,
+        "name":"Sub Sandwich",
+        "price":"$6.99",
+        "image":"images/Sandwich.jpg"
+    },
+    {
+        "id":6,
+        "name":"finger chips",
+        "price":"$13.45",
+        "image":"images/finger chips.jpg"
+    },
+    {
+        "id":7,
+        "name":"Itallian Spaghetti",
+        "price":"$7.65",
+        "image":"images/speghetti.png"
+    },
+    {
+        "id":8,
+        "name":"Spring Roll",
+        "price":"$9.31",
+        "image":"images/spring-roll.jpg"
+    }
+    ]
